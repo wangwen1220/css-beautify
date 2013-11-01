@@ -1,0 +1,16 @@
+[{
+  "keys": ["super+shift+alt+c"],
+  "command": "cssbeautify"
+}, {
+  //"keys": ["super+alt+h", "p"],
+  //"command": "cssbeautify_set_beautify_prefs"
+}, {
+  //"keys": ["super+alt+h", "o"],
+  //"command": "cssbeautify_set_plugin_options"
+}, {
+  //"keys": ["super+alt+h", "k"],
+  //"command": "cssbeautify_set_keyboard_shortcuts"
+}, {
+  //"keys": ["super+alt+h", "n"],
+  //"command": "cssbeautify_set_node_path"
+}]

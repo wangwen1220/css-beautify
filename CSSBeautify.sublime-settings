@@ -1,0 +1,7 @@
+{
+  // Simply using `node` without specifying a path sometimes doesn't work :(
+  // https://github.com/victorporof/Sublime-HTMLPrettify#oh-noez-command-not-found
+  // http://nodejs.org/#download
+  "node_path": "D:/work/我的文档/Dropbox/逍遥工具箱/常用工具/nodejs/node.exe",
+  "format_on_save": false
+}

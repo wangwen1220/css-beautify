@@ -1,0 +1,19 @@
+[{
+  "caption": "CSS Beautify",
+  "children": [{
+    "caption": "Beautify CSS",
+    "command": "cssbeautify"
+  }, {
+    "caption": "Set Beautify Preferences",
+    "command": "cssbeautify_set_beautify_prefs"
+  }, {
+    "caption": "Set Plugin Options",
+    "command": "cssbeautify_set_plugin_options"
+  },  {
+    "caption": "Set Keyboard Shortcuts",
+    "command": "cssbeautify_set_keyboard_shortcuts"
+  }, {
+    "caption": "Set `node` Path",
+    "command": "cssbeautify_set_node_path"
+  }]
+}]

@@ -1,0 +1,16 @@
+[{
+  "caption": "CSSBeautify",
+  "command": "cssbeautify"
+}, {
+  "caption": "CSSBeautify: Set Beautify Preferences",
+  "command": "cssbeautify_set_beautify_prefs"
+}, {
+  "caption": "CSSBeautify: Set Plugin Options",
+  "command": "cssbeautify_set_plugin_options"
+}, {
+  "caption": "CSSBeautify: Set Keyboard Shortcuts",
+  "command": "cssbeautify_set_keyboard_shortcuts"
+}, {
+  "caption": "CSSBeautify: Set `node` Path",
+  "command": "cssbeautify_set_node_path"
+}]
